@@ -8,5 +8,7 @@ public class Prrson {
 	public String toString() {
 		return name+age;
 	}
+	public void setName(String name){
 	
+	}
 }
