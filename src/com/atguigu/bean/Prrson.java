@@ -5,7 +5,7 @@ public class Prrson {
 	private int age;
 	@Override
 	public String toString() {
-		return "Prrson [name=" + name + ", age=" + age + "]";
+		return name+age;
 	}
 	
 }
